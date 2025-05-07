@@ -1,4 +1,6 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
+## Name: SREE GOVIND SA
+## REG NO.212224240159
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
@@ -31,6 +33,7 @@ while True:
     c.send(ClientMessage.encode())
 ```
 ## OUPUT
+![3a1](https://github.com/user-attachments/assets/c2ccd2a9-c516-408f-a95f-df8b3e3f4fef)
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
